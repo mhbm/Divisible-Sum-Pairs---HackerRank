@@ -1,0 +1,27 @@
+About
+Join our biggest contest, Week of Code 31! This is a 7 day contest beginning Monday, April 10 at 12:00am PDT.
+Each day, we’ll unlock a new challenge for you to solve. The top 10 hackers win HackerRank T-shirts. Sign up now and we’ll send you a quick reminder each day to keep you on track. See you on the leaderboard!
+
+
+Prizes
+Top 10 coders win HackerRank T-shirts.
+Residents of the following countries and territories are not eligible to win prizes due to legal restrictions. Learn more here: Antarctica, Afghanistan, Belarus, Bosnia and Herzegovina, Bouvet Island, Burundi, Cameroon, Central African Republic, Congo, Christmas Island, Crimea, Cuba, North Korea, Equatorial Guinea, Iran, Iraq, Laos, Lebanon, Libya, Moldova, Nigeria, Pakistan, Papua New Guinea, Russia, Serbia and Montenegro, Sevastopol, Somalia, Sudan, Syria, Ukraine, Venezuela, Yemen, Zimbabwe.
+Residents of the following countries and territories are not eligible to win T-Shirts due to heavy international tax charges required for both the recipient and HackerRank: Bangladesh, Dalaras, Kazakhstan, Philippines, Sweden and Ukraine.
+
+
+Rules
+Code directly from our platform, which supports over 30 languages. Learn more here.
+All submissions are run through a plagiarism detector. Any case of code plagiarism will disqualify both users from the contest.
+Code directly from our platform, which supports over 30 languages. Learn more here.
+All submissions are run through a plagiarism detector. Any case of code plagiarism will disqualify both users from the contest.
+
+
+Scoring
+Each challenge has a pre-determined score.
+A participant’s score depends on the number of test cases a participant’s code submission successfully passes.
+If a participant submits more than one solution per challenge, then the participant’s score will reflect the highest score achieved. In a game challenge, the participant's score will reflect the last code submission.
+If a participant submits more than one solution per challenge, then the participant’s score will reflect the highest score achieved.
+Participants are ranked by score. If two or more participants achieve the same score, then the tie is broken by the total time taken for submitting the last correct code submission.
+
+
+More information : https://www.hackerrank.com/contests/w31/challenges
